@@ -1,3 +1,5 @@
+package com.testinium.project;
+
 public class KurumsalMusteri extends Musteri {
     private String companyName;
 

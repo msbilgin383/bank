@@ -1,3 +1,5 @@
+package com.testinium.project;
+
 public class Musteri {
     private String identityNumber;
     private String name;

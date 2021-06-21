@@ -1,4 +1,6 @@
-public class BireyselMusteri extends Musteri{
+package com.testinium.project;
+
+public class BireyselMusteri extends Musteri {
     private String adress;
 
 

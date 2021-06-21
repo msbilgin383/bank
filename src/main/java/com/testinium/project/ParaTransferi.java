@@ -1,3 +1,7 @@
+package com.testinium.project;
+
+import com.testinium.project.Musteri;
+
 public class ParaTransferi {
     public void ParaYatir(Musteri musteri, double miktar){
         double bakiye = musteri.getBalance();

@@ -1,3 +1,8 @@
+package com.testinium.project;
+
+import com.testinium.project.BireyselMusteri;
+import com.testinium.project.KurumsalMusteri;
+
 import java.util.*;
 
 public class Main {
